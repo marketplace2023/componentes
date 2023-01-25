@@ -40,7 +40,7 @@ Listado de Componentes
 * [star](#item30)
 * [tab](#item31)
 * [tabpanel](#item32)
-* [tabcontainer] (#item33)
+* [tabcontainer](#item33)
 
 
 <a name="item1"></a>
