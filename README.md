@@ -33,6 +33,15 @@ Listado de Componentes
 * [profilelider](#item23)
 * [quentionsfrecuent](#item24)
 * [searchtopicos](#item25)
+* [slidercategories](#item26)
+* [slidermarcasimilar](#item27)
+* [sliderprodrelacionado](#item28)
+* [slidertopsellerproduct](#item29)
+* [star](#item30)
+* [tab](#item31)
+* [tabpanel](#item32)
+* [tabcontainer]
+
 
 <a name="item1"></a>
 ### CardImage
@@ -133,6 +142,38 @@ Es una card component donde se visualizan la informacion de contacto y soporte a
 <a name="item25"></a>
 ### searchtopicos
 Es un componente donde el usuario filtras los topicos de ayuda para visualizarlas
+
+<a name="item26"></a>
+### sliderscategories
+Es componente slider donde se muestran las categorias del marketplace
+
+<a name="item27"></a>
+### slidermarcasimilar
+Es un componente slider donde se muestran las marcas similares en el detalle de un producto
+
+<a name="item28"></a>
+### sliderprodrelacionado
+Es un componente slider donde se muestran los productos similares en el detalle de un producto
+
+<a name="item29"></a>
+### slidertopsellerproducts
+Es slider donde se visualizan los productos mas vendidos 
+
+<a name="item30"></a>
+### star
+Es un componete usado para realizar los ratings en el sitio
+
+<a name="item31"></a>
+### tab
+Es un componente tablero que permite la insercion de datos mediante una pestaña
+
+<a name="item32"></a>
+### tabpanel
+Es un componente encargado de mostrar informacion deacuerdo a la pestaña seleccionada
+
+<a name="item33"></a>
+### tabcontainer
+componente padre donse esta ubicado los elemtos del tab
 
 
 
