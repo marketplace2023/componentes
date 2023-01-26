@@ -41,6 +41,7 @@ Listado de Componentes
 * [tab](#item31)
 * [tabpanel](#item32)
 * [tabcontainer](#item33)
+* [tiendainfo](#item34)
 
 
 <a name="item1"></a>
@@ -173,9 +174,10 @@ Es un componente encargado de mostrar informacion deacuerdo a la pestaña selecc
 
 <a name="item33"></a>
 ### tabcontainer
-componente padre donse esta ubicado los elemtos del tab
+componente padre donde estan ubicados los elemtos del tab panel
 
-
+<a name="item34"></a>
+### tiendainfo
 
 
 
