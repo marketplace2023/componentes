@@ -190,4 +190,3 @@ componente padre donse esta ubicado los elemtos del tab
 
 
 
-
