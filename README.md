@@ -293,7 +293,7 @@ Es el componente donde se efectuan los pasos para hacer la compra primero elige 
 
 <a name="item56"></a>
 ### pedidosrealizados
-*******************************************************************************
+
 
 <a name="item57"></a>
 ### contenidoproduct
