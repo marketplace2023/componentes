@@ -42,6 +42,8 @@ Listado de Componentes
 * [tabpanel](#item32)
 * [tabcontainer](#item33)
 * [tiendainfo](#item34)
+* [topcategories](#item35)
+* [topseller](#item36)
 
 
 <a name="item1"></a>
@@ -174,17 +176,19 @@ Es un componente encargado de mostrar informacion deacuerdo a la pestaña selecc
 
 <a name="item33"></a>
 ### tabcontainer
-componente padre donde estan ubicados los elemtos del tab panel
+Componente padre donde estan ubicados los elemtos del tab panel
 
 <a name="item34"></a>
 ### tiendainfo
+Componente donde se muestran informacion adicional sobre el marketplace
 
+<a name="item35"></a>
+### topcategories
+Es un card component donde se muestran por medio de una prodiedad y texto las diferentes categorias del sitio
 
-
-
-
-
-
+<a name="item36"></a>
+### topseller
+Card component donde se muestran por medio de un efecto slider los productos mas vendidos por el mes
 
 
 
