@@ -293,7 +293,7 @@ Es el componente donde se efectuan los pasos para hacer la compra primero elige 
 
 <a name="item56"></a>
 ### pedidosrealizados
-
+Es uns ventana modal donde se confirma que el pedido ha sido confirmado o realizado para su posterior entrega o retiro el agencia
 
 <a name="item57"></a>
 ### contenidoproduct
