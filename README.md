@@ -45,6 +45,7 @@ Listado de Componentes
 * [topcategories](#item35)
 * [topseller](#item36)
 * [topsellerproducts](#item37)
+* [vendedorsprod](#item38)
 
 
 <a name="item1"></a>
@@ -195,6 +196,7 @@ Componente padre donde se muestran por medio de un efecto slider los productos m
 ### topsellerproducts
 Card compoente donde por medio de una propiedad se muestran precio imagen y nombre de los productos mas vendidos del mes
 
-
-
+<a name="item38"></a>
+### vendedorprod
+Card Component donde se encuentra la informacion del vendedor del que vende ese producto
 
