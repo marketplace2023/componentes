@@ -50,6 +50,9 @@ Listado de Componentes
 * [menucategories](#item40)
 * [publicategories](#item41)
 * [sliderimagen](#item42)
+* [description](#item43)
+* [horario](#item44)
+* [information](#item45)
 
 
 <a name="item1"></a>
@@ -220,16 +223,15 @@ Es un componente padre donde se encuentran las ofertas productos y alguna public
 ### sliderimagen
 Es un componente carrousel que se encuentra dentro del componente padre de publicategories
 
+<a name="item43"></a>
+### description
+Es un card component que se encuentra en la tienda de los producto que señala la descripcion de la tienda buscada
 
+<a name="item44"></a>
+### horario
+Es un card component donde se muestra el horario de la tienda en su seccion de productos
 
-
-
-
-
-
-
-
-
-
-
+<a name="item44"></a>
+### information
+Es un
 
