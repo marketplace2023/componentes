@@ -65,6 +65,11 @@ Listado de Componentes
 * [pasos](#item55)
 * [pedidosrealizados](#item56)
 * [contenidoproduct](#item57)
+* [producthomeinfo](#item58)
+* [slidercajaproduct](#item59)
+* [sliderproductohome](#item60)
+* [bannertienda](#item61)
+* [cajatienda](#item62)
 
 <a name="item1"></a>
 ### CardImage
@@ -292,17 +297,27 @@ Es el componente donde se efectuan los pasos para hacer la compra primero elige 
 
 <a name="item57"></a>
 ### contenidoproduct
-Es un componente donde esta ubicado el detalle del producto que mediente un efecto carrousel se hace mas dinamico para el usuario
+Es un componente padre donde esta ubicado el detalle del producto que mediente un efecto carrousel se hace mas dinamico para el usuario
 
+<a name="item58"></a>
+### producthomeinfo
+Es un componente hijo del componente padre contenidoproduct donde se el usuario visualiza los detalles del producto precio calificacion y una breve descripcion
 
+<a name="item59"></a>
+### slidercajaproduct
+Es un componente hijo del componente padre contenido product que tiene un efecto carrousel donde se cambian las imagenes del producto
 
+<a name="item60"></a>
+### sliderproductohome
+Es el componente carrousel que contiene los demas componentes sliders como el slidercajaproduct
 
+<a name="item61"></a>
+### bannertienda
+Componente banner que mediante una propiedad imagen texto y perfil se usa para identificar las tiendas que existen en el marketplace 
 
-
-
-
-
-
+<a name="item62"></a>
+### cajatienda
+Es un componente tipo card donde tiene unas propiedades como imagen de perfil, titulo banner rating direcion telefono y correo electronico que se utiliza opara identificar las diferentes perfiles de una tienda 
 
 
 
