@@ -46,6 +46,7 @@ Listado de Componentes
 * [topseller](#item36)
 * [topsellerproducts](#item37)
 * [vendedorsprod](#item38)
+* [cajaproducto](#item39)
 
 
 <a name="item1"></a>
@@ -199,4 +200,30 @@ Card compoente donde por medio de una propiedad se muestran precio imagen y nomb
 <a name="item38"></a>
 ### vendedorprod
 Card Component donde se encuentra la informacion del vendedor del que vende ese producto
+
+<a name="item39"></a>
+### cajaproducto
+Es un card component donde se pueden visualizar la imagen precio y en ombre del producto el cuando se hace el filtro de busqueda 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
