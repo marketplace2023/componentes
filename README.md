@@ -63,6 +63,8 @@ Listado de Componentes
 * [disepago](#item53)
 * [modoentrega](#item54)
 * [pasos](#item55)
+* [pedidosrealizados](#item56)
+* [contenidoproduct](#item57)
 
 <a name="item1"></a>
 ### CardImage
@@ -284,11 +286,13 @@ Es el componente donde el usuario elige el metodo de entrega del producto, si lo
 ### pasos
 Es el componente donde se efectuan los pasos para hacer la compra primero elige el metodo de entrega y posteriormente el metodo de pago
 
+<a name="item56"></a>
+### pedidosrealizados
+*******************************************************************************
 
-
-
-
-
+<a name="item57"></a>
+### contenidoproduct
+Es un componente donde esta ubicado el detalle del producto que mediente un efecto carrousel se hace mas dinamico para el usuario
 
 
 
