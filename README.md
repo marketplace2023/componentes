@@ -53,7 +53,13 @@ Listado de Componentes
 * [description](#item43)
 * [horario](#item44)
 * [information](#item45)
-
+* [menuinfo](#item46)
+* [categories](#item47)
+* [menuleft](#item48)
+* [precio](#item49)
+* [rating](#item50)
+* [detalleorden](#item51)
+* [direcciond](#item52)
 
 <a name="item1"></a>
 ### CardImage
@@ -231,7 +237,42 @@ Es un card component que se encuentra en la tienda de los producto que señala l
 ### horario
 Es un card component donde se muestra el horario de la tienda en su seccion de productos
 
-<a name="item44"></a>
+<a name="item45"></a>
 ### information
-Es un
+Es un card component donde se muestra la informacion principal de la tienda donde se muestra redes sociales y telefono 
+
+<a name="item46"></a>
+### menuinfo
+Componente contenedor donde estan los componentes hijos que conforman el layout
+
+<a name="item47"></a>
+### categories
+Es una card component ubicada el menu lateral donde se visualizan las categorias de la marketplace
+
+<a name="item48"></a>
+### menuleft
+Componente layout donde se ubican los compoentes hijos del menu lateral 
+
+<a name="item49"></a>
+### precio
+Componente donde el usuario filtra por rango de los productos que quiere mostrar
+
+<a name="item49"></a>
+### rating
+Compoente donde el usuario filtra y califica un determinado producto 
+
+<a name="item50"></a>
+### detalleorden
+Componente donde se visualizan el detalle de la orden de compra los item de los producto, subtotal y total a pagar tipo de delivery y un caja de comentarios al vendedor 
+
+<a name="item51"></a>
+### direcciond
+Compondente donde van guardadas las direcciones de las entregas de los pedidos
+
+
+
+
+
+
+
 
