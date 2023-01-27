@@ -44,6 +44,7 @@ Listado de Componentes
 * [tiendainfo](#item34)
 * [topcategories](#item35)
 * [topseller](#item36)
+* [topsellerproducts](#item37)
 
 
 <a name="item1"></a>
@@ -188,10 +189,11 @@ Es un card component donde se muestran por medio de una prodiedad y texto las di
 
 <a name="item36"></a>
 ### topseller
-Card component donde se muestran por medio de un efecto slider los productos mas vendidos por el mes
+Componente padre donde se muestran por medio de un efecto slider los productos mas vendidos por el mes
 
-
-
+<a name="item37"></a>
+### topsellerproducts
+Card compoente donde por medio de una propiedad se muestran precio imagen y nombre de los productos mas vendidos del mes
 
 
 
