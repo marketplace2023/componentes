@@ -7,14 +7,15 @@ Aqui se encuentran el listado de componentes usados en la aplicacion Marketplace
  
 ## Índice de contenidos
 [Frontend](#item0)
-Listado de Componentes 
-* [CardImage](#item1)
-* [MobileMenuButton](#item2)
-* [NavegacionPrincipal](#item3)
-* [NavegacionSecundaria](#item4)
-* [Search](#item5)
-* [SliderBar](#item6)
-* [SliderBarProducts](#item7)
+Listado de Componentes
+*[Barnavegation](#item0)
+ * [CardImage](#item1)
+ * [MobileMenuButton](#item2)
+ * [NavegacionPrincipal](#item3)
+ * [NavegacionSecundaria](#item4)
+ * [Search](#item5)
+ * [SliderBar](#item6)
+ * [SliderBarProducts](#item7)
 * [footer](#item8)
 * [newsletter](#item9)
 * [applayout](#item10)
