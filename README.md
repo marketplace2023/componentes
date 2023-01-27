@@ -60,6 +60,9 @@ Listado de Componentes
 * [rating](#item50)
 * [detalleorden](#item51)
 * [direcciond](#item52)
+* [disepago](#item53)
+* [modoentrega](#item54)
+* [pasos](#item55)
 
 <a name="item1"></a>
 ### CardImage
@@ -257,17 +260,40 @@ Componente layout donde se ubican los compoentes hijos del menu lateral
 ### precio
 Componente donde el usuario filtra por rango de los productos que quiere mostrar
 
-<a name="item49"></a>
+<a name="item50"></a>
 ### rating
 Compoente donde el usuario filtra y califica un determinado producto 
 
-<a name="item50"></a>
+<a name="item51"></a>
 ### detalleorden
 Componente donde se visualizan el detalle de la orden de compra los item de los producto, subtotal y total a pagar tipo de delivery y un caja de comentarios al vendedor 
 
-<a name="item51"></a>
+<a name="item52"></a>
 ### direcciond
 Compondente donde van guardadas las direcciones de las entregas de los pedidos
+
+<a name="item53"></a>
+### disepago
+Card Component donde el cliente selecciona el tipo de pago a efectuar para la compra de un articulo de marketplace 
+
+<a name="item54"></a>
+### modoentrega
+Es el componente donde el usuario elige el metodo de entrega del producto, si lo prefiere como delivery o lo busca personalmente en las sucursales 
+
+<a name="item55"></a>
+### pasos
+Es el componente donde se efectuan los pasos para hacer la compra primero elige el metodo de entrega y posteriormente el metodo de pago
+
+
+
+
+
+
+
+
+
+
+
 
 
 
