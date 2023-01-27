@@ -47,6 +47,9 @@ Listado de Componentes
 * [topsellerproducts](#item37)
 * [vendedorsprod](#item38)
 * [cajaproducto](#item39)
+* [menucategories](#item40)
+* [publicategories](#item41)
+* [sliderimagen](#item42)
 
 
 <a name="item1"></a>
@@ -205,14 +208,17 @@ Card Component donde se encuentra la informacion del vendedor del que vende ese 
 ### cajaproducto
 Es un card component donde se pueden visualizar la imagen precio y en ombre del producto el cuando se hace el filtro de busqueda 
 
+<a name="item40"></a>
+### menucategories
+Componente tipo banner donde se visualizan una seccion de productos y ofertas en el home principal
 
+<a name="item41"></a>
+### publicategories
+Es un componente padre donde se encuentran las ofertas productos y alguna publicidad del sitio 
 
-
-
-
-
-
-
+<a name="item42"></a>
+### sliderimagen
+Es un componente carrousel que se encuentra dentro del componente padre de publicategories
 
 
 
